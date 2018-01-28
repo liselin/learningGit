@@ -9,3 +9,5 @@ fourth time to modify this file
 fifth time to modify this file
 
 this is a modifying after add and before commit
+
+this is a line to test the git checkout command
