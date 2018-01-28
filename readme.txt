@@ -7,3 +7,5 @@ third time to modify this file
 fourth time to modify this file
 
 fifth time to modify this file
+
+this is a modifying after add and before commit
